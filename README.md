@@ -54,12 +54,12 @@ b) download result into BASF on premise -> tbd <br>
 
 # Open question regarding azue
 
--Machine Learning Images<br>
+-Machine Learning Images, see jupyter notebook what is going on there<br>
 -Review traing, building and do the training<br>
 -Best practise development - local and deploy azure?<br>
 -How to get files from one resource<br>
 -When deploy a trainning script (or other) which is run on azure, where is it physically available<br>
--quota request - how do I get more<br>
--information about compute instances<br>
+-quota request - how do I get more, what do we have availabe<br>
+-information about compute instances<br>, what can we get and how?
 -compute instance vs. compute cluster<br>
 
