@@ -54,6 +54,7 @@ b) download result into BASF on premise -> tbd <br>
 
 # Open question regarding azue
 
+- How to access az with juoyter within BASF network
 -Machine Learning Images, see jupyter notebook what is going on there<br>
 -Review traing, building and do the training<br>
 -Best practise development - local and deploy azure?<br>
