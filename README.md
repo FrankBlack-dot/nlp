@@ -1,6 +1,6 @@
 # Requirements for the NLP project on Azure
 
-Pseudo code implementation:
+## Tasks list for first NLP prototype :
 
 1) Environment\
 a) set up workspace\
